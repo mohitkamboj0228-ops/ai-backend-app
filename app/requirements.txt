@@ -1,4 +1,4 @@
-
+git push origin main
 fastapi
 uvicorn[standard]
 psycopg2-binary
